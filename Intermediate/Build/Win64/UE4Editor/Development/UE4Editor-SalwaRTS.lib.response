@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SalwaRTS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Programs\UE_4.17\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Salveiro\Documents\Unreal Projects\SalwaRTS\Intermediate\Build\Win64\UE4Editor\Development\SalwaRTS\MyActor.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\SalwaRTS\Intermediate\Build\Win64\UE4Editor\Development\SalwaRTS\MyCharacter.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\SalwaRTS\Intermediate\Build\Win64\UE4Editor\Development\SalwaRTS\MyGameMode.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\SalwaRTS\Intermediate\Build\Win64\UE4Editor\Development\SalwaRTS\SalwaRTS.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\SalwaRTS\Intermediate\Build\Win64\UE4Editor\Development\SalwaRTS\MyActor.gen.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\SalwaRTS\Intermediate\Build\Win64\UE4Editor\Development\SalwaRTS\MyCharacter.gen.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\SalwaRTS\Intermediate\Build\Win64\UE4Editor\Development\SalwaRTS\MyGameMode.gen.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\SalwaRTS\Intermediate\Build\Win64\UE4Editor\Development\SalwaRTS\SalwaRTS.init.gen.cpp.obj"
+"E:\Programs\UE_4.17\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\SalwaRTS\PCLaunch.rc.res"
+"E:\Programs\UE_4.17\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Salveiro\Documents\Unreal Projects\SalwaRTS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SalwaRTS.lib"
